@@ -21,4 +21,4 @@ Perustoteutuksen lisäksi on tein seuraavat lisäominaisuudet:
 
 ## Huomio
 
-APK löytyy v1
+APK löytyy realease osiosta vFinal
